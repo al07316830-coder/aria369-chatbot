@@ -19,8 +19,8 @@ Autora: Valeria Giselle Uribe Pérez
 ## Archivos
 | Archivo | Contenido |
 |---|---|
-| `ARIA369_Chatbot_Artroom.ipynb` | Notebook de Colab con el chatbot, las 12 conversaciones de prueba y las pruebas de límites |
-| `artroom_bot.py` | Código fuente del chatbot (base de conocimiento, intenciones y motor) |
+| `ARIA369_Chatbot_Artroom369.ipynb` | Notebook de Colab con el chatbot, las 12 conversaciones de prueba y las pruebas de límites |
+| `aria369_chatbot_artroom369.py` | Código fuente del chatbot (base de conocimiento, intenciones y motor) |
 | `pruebas.py` | Conversaciones de prueba y pruebas de límites |
 | `requirements.txt` | Dependencias |
 
@@ -31,7 +31,7 @@ Autora: Valeria Giselle Uribe Pérez
 ```bash
 pip install -r requirements.txt
 python pruebas.py        # corre las pruebas
-python artroom_bot.py    # chat interactivo
+python aria369_chatbot_artroom369.py    # chat interactivo
 ```
 
 ## Arquitectura
